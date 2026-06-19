@@ -319,7 +319,7 @@ Together, these components provide a foundation for an AI-driven customer retent
 ## Author
 
 **N. Sai Saketh**
-B.Tech CSE (AI & ML)
+B.Tech CSE
 PES University
 
 GitHub: https://github.com/saketh1506-ux
