@@ -1,4 +1,4 @@
-# 📊 Telecom Customer Churn Prediction using CatBoost
+# AI-Powered Telecom Customer Churn Prediction and Retention Strategy
 
 ## Project Overview
 
