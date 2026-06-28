@@ -129,19 +129,6 @@ Business Recommendations
 
 ---
 
-## Project Structure
-
-```
-├── data/
-├── notebooks/
-├── models/
-├── images/
-├── README.md
-├── requirements.txt
-└── Telecom_Churn_Prediction.ipynb
-```
-
----
 
 ## Author
 
